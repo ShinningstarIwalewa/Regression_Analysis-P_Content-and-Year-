@@ -1,17 +1,10 @@
 # Exploratory Data Analysis and Regression Analysis of P_Content and Year
 # Source of DataSet: 
-On life satisfaction, children in Ireland rated themselves as having one of the lowest rates in the OECD/EU
-(72%), with 28% marking a score of 5 or under on a scale of 10 (UNICEF Office of Research). Among the
-issues contributing to these low scores, body image, pressure to succeed in school and bullying.
-The Health Behaviour in School-aged Children (HBSC) survey is a WHO collaborative cross-national study
-that monitors the health behaviours, health outcomes and social environments of school-aged children every
-four years. The HBSC Ireland team, based at the Health Promotion Research Centre, University of Galway
-conducted the nationally representative survey of Irish school children in 2006, 2010, 2014 and 2018. This
-data set contains:
-• P_Content The percentage of children that reported being happy with they way they are,
-• Age the Age of the child,
-• Sex the Sex of the child Male or Female
-• Year the Year the information was collected,
+On life satisfaction, children in Ireland rated themselves as having one of the lowest rates in the OECD/EU(72%), with 28% marking a score of 5 or under on a scale of 10 (UNICEF Office of Research). Among theissues contributing to these low scores, body image, pressure to succeed in school and bullying.The Health Behaviour in School-aged Children (HBSC) survey is a WHO collaborative cross-national studythat monitors the health behaviours, health outcomes and social environments of school-aged children everyfour years. The HBSC Ireland team, based at the Health Promotion Research Centre, University of Galwayconducted the nationally representative survey of Irish school children in 2006, 2010, 2014 and 2018. This data set contains:
+- P_Content The percentage of children that reported being happy with they way they are,
+- Age the Age of the child,
+- Sex the Sex of the child Male or Female
+- Year the Year the information was collected,
 # Objective: 
 The objective of this project is to carryout exploratory data analysis on the dataset and fit a simple linear regression model to the data with P_Content as the response variable and Year as a numeric predictor variable for females.
 # Summary of Exploratory Data Analysis
